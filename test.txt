@@ -1,0 +1,6 @@
+public class test{
+	psvm{
+		sout('111111');
+	}
+
+}
