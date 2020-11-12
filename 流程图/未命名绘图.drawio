@@ -1,1 +1,502 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T09:03:39.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="lnniZqYLjhTkedB6CgNi" version="13.9.7" type="github"><diagram id="0nMQCCQZS5VqwpWak0t-" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-12T09:24:17.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="wVjyQQIc5KniaslgY-hJ" version="13.9.7" type="github">
+  <diagram id="0nMQCCQZS5VqwpWak0t-" name="Page-1">
+    <mxGraphModel dx="1102" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#B3B3B3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="55qW9BjzEcxhO7VvElrI-4" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;AdminGroup&lt;br&gt;Controller&lt;/span&gt;" style="shape=or;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="80" height="910" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-5" target="55qW9BjzEcxhO7VvElrI-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="120" />
+              <mxPoint x="160" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-5" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;addAdminGroup&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="320" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-7" target="55qW9BjzEcxhO7VvElrI-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="200" />
+              <mxPoint x="160" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-7" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;updateAdminGroup&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="320" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-9" target="55qW9BjzEcxhO7VvElrI-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="280" />
+              <mxPoint x="160" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-9" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;updateEnableStatus&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="320" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-10" target="55qW9BjzEcxhO7VvElrI-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="360" />
+              <mxPoint x="160" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-10" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;getAdminGroup&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="320" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-11" target="55qW9BjzEcxhO7VvElrI-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="440" />
+              <mxPoint x="160" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-11" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;getUserBelongGroup&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="320" y="400" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-12" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;getResourceBelongGroup&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="320" y="490" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.988;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="55qW9BjzEcxhO7VvElrI-13" target="55qW9BjzEcxhO7VvElrI-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="620" />
+              <mxPoint x="160" y="529" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-13" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;updateResourceBelongGroup&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="320" y="580" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="55qW9BjzEcxhO7VvElrI-14" target="55qW9BjzEcxhO7VvElrI-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="700" />
+              <mxPoint x="160" y="530" />
+              <mxPoint x="120" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-14" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;addUserToGroup&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="320" y="660" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="790" />
+              <mxPoint x="160" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-15" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;invalidGroupUser&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="320" y="750" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-16" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;权限组管理&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="490" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="870" />
+              <mxPoint x="160" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-17" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;getUserInfo&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="320" y="830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="950" />
+              <mxPoint x="160" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-18" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;getGroupById&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="320" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-32" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;添加权限组&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="100" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-33" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;修改权限组&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="180" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-34" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;是否启用&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="260" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-35" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;根据名称查询权限组&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="340" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-36" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;根据id查询权限组人员&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="165" y="420" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-46" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;获取权限组拥有的权限&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="510" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-47" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;修改权限组拥有的权限&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="600" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-48" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;向权限组添加人员&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="680" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-49" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;作废权限组人员&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="770" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-50" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;根据工号获取用户信息&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="850" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-51" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;根据id查询权限组&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="930" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-52" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;ButtonResource&lt;br&gt;Controller&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="640" y="80" width="110" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-54" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;按钮资源控制器类&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="635" y="440" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-55" target="55qW9BjzEcxhO7VvElrI-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="120" />
+              <mxPoint x="800" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-55" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;saveButtonResource&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="960" y="80" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-57" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="749" y="336" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="210" />
+              <mxPoint x="800" y="336" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-57" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;queryButtonResourcePage&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="960" y="170" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="751" y="334" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="390" />
+              <mxPoint x="800" y="334" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-58" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;cancelById&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="960" y="350" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-59" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="334" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="300" />
+              <mxPoint x="800" y="334" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-59" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;updateButtonResourceById&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="960" y="260" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-60" target="55qW9BjzEcxhO7VvElrI-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="700" />
+              <mxPoint x="800" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-60" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;checkButtonResourceExistByCodeAndMenuId&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="650" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-61" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="749" y="335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="480" />
+              <mxPoint x="800" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-61" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;getButtonByUser&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="960" y="440" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="752" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="570" />
+              <mxPoint x="800" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-62" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;getButtonByMenu&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="960" y="530" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-63" target="55qW9BjzEcxhO7VvElrI-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="810" />
+              <mxPoint x="800" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-63" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;queryButtonResourceIdListByMenuIds&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="770" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-71" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;按钮资源保存&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="825" y="100" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-73" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;根据多个菜单id查询按钮id&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="805" y="790" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-74" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;根据校验码和菜单id检查按钮资源是否存在&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="795" y="680" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-75" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;根据菜单获取按钮资源&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="795" y="550" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-76" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;根据用户获取按钮资源&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="795" y="460" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-77" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;根据id作废按钮资源&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="805" y="370" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-78" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;按钮资源查询&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="825" y="190" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-79" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;根据id修改按钮资源&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="805" y="280" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-80" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;Menu&lt;br&gt;Controller&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="80" width="80" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.006;exitY=0.48;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="55qW9BjzEcxhO7VvElrI-93" target="55qW9BjzEcxhO7VvElrI-80" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="100" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1481" y="100" />
+              <mxPoint x="1360" y="100" />
+              <mxPoint x="1360" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-87" target="55qW9BjzEcxhO7VvElrI-80" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="441" />
+              <mxPoint x="1360" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-87" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;remoteMenusByid&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="390" width="170" height="101.99" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-88" target="55qW9BjzEcxhO7VvElrI-80" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1360" y="560" />
+              <mxPoint x="1360" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-88" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;getMenuByUserCodeAndAppkey&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1590" y="480" width="270" height="161.98" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-90" target="55qW9BjzEcxhO7VvElrI-80" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="361" />
+              <mxPoint x="1360" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-90" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;selectMenuMapListByUserAndSystem&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1660" y="280" width="270" height="161.99" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-91" target="55qW9BjzEcxhO7VvElrI-80" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="296" />
+              <mxPoint x="1360" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-91" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;getTreeMenus&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1491.66" y="251.99" width="146.69" height="88.01" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="55qW9BjzEcxhO7VvElrI-92" target="55qW9BjzEcxhO7VvElrI-80" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="201" />
+              <mxPoint x="1360" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-92" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;saveOrUpdateMenuInfo&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="150" width="170" height="101.99" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-93" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;selectMenuByUserCode&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="48.01" width="170" height="101.99" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-99" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;根据用户号查询菜单&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1355" y="80" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-100" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;根据系统id和用户id查询菜单&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1355" y="340" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-101" value="根据菜单id删除菜单" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="420" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-102" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;加载菜单树&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="270" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-103" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;修改或保存菜单&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1355" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-104" value="根据工号和系统唯一码获取菜单" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="540" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-105" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px ; background-color: rgb(229 , 229 , 229)&quot;&gt;菜单控制器&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="310" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-106" value="Common&lt;br&gt;Menu&lt;br&gt;Controller" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="660" width="80" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.19;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="55qW9BjzEcxhO7VvElrI-107" target="55qW9BjzEcxhO7VvElrI-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-107" value="&lt;span style=&quot;background-color: rgb(255 , 206 , 159)&quot;&gt;getCommonMenuByUserIdAndSysyName&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="670" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.81;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="55qW9BjzEcxhO7VvElrI-108" target="55qW9BjzEcxhO7VvElrI-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-108" value="addCommonMenu" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-113" value="常用菜单" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="720" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-114" value="根据工号、系统名查询常用菜单" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1485" y="680" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-115" value="添加常用菜单" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1485" y="810" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-116" value="RoleAllotController" style="shape=tape;whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="2120" y="80" width="120" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-117" value="角色分配" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2140" y="471.99" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.833;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="55qW9BjzEcxhO7VvElrI-118" target="55qW9BjzEcxhO7VvElrI-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2230" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55qW9BjzEcxhO7VvElrI-118" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #ffc66d&quot;&gt;getUserInfoByCodeOrName&lt;/span&gt;&lt;/pre&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="2440" y="80" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0UeXVPjD24YqgaCfHr41-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2240" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-3" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #ffc66d&quot;&gt;getRoleInfoByCode&lt;/span&gt;&lt;/pre&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.025;entryY=0.286;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0UeXVPjD24YqgaCfHr41-4" target="55qW9BjzEcxhO7VvElrI-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2260" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-4" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #ffc66d&quot;&gt;addRoleToUser&lt;/span&gt;&lt;/pre&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.025;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0UeXVPjD24YqgaCfHr41-5" target="55qW9BjzEcxhO7VvElrI-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2260" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-5" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #ffc66d&quot;&gt;copyUserToOther&lt;/span&gt;&lt;/pre&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0UeXVPjD24YqgaCfHr41-6" target="55qW9BjzEcxhO7VvElrI-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-6" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #ffc66d&quot;&gt;checkAuthByUser&lt;/span&gt;&lt;/pre&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.702;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0UeXVPjD24YqgaCfHr41-7" target="55qW9BjzEcxhO7VvElrI-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-7" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #ffc66d&quot;&gt;getHandheldRoleInfo&lt;/span&gt;&lt;/pre&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="630" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0UeXVPjD24YqgaCfHr41-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2180" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-8" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #ffc66d&quot;&gt;getPersionByRole&lt;/span&gt;&lt;/pre&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="740" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=0.952;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0UeXVPjD24YqgaCfHr41-9" target="55qW9BjzEcxhO7VvElrI-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2170" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-9" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #ffc66d&quot;&gt;getPersionByRole&lt;/span&gt;&lt;/pre&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="840" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-20" value="根据工号/姓名查询人员信息" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="100" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-21" value="角色分配按钮查询" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2255" y="200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-22" value="根据角色获取工号" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2255" y="755" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-23" value="根据角色id集合给菜单添加按钮，并给按钮追加权限" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="860" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-25" value="用户分配角色" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2275" y="300" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-26" value="角色复制" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="420" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-27" value="权限校验" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="540" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0UeXVPjD24YqgaCfHr41-28" value="根据工号获取角色信息" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="650" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
